@@ -1,7 +1,7 @@
 ### Hi, I'm Pablo 👋
 Senior **Ruby on Rails** developer with 20 years of building and shipping web applications. 
 
-**What I work with: **
+**What I work with:**
 Ruby · Rails · PostgreSQL · MySQL · Sidekiq · Devise · Pundit ·
 multi-tenant SaaS · Kamal · VPS · Hotwire · Stimulus · OAuth2
 AWS, SQS, SNS, RDS, OpenSearch/ElasticSearch
