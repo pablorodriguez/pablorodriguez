@@ -2,10 +2,14 @@
 Senior **Full Stack Developer** with 20 years of building and shipping web applications. 
 
 **What I work with:**
+
 Ruby · Rails · PostgreSQL · MySQL · Sidekiq · Devise · Pundit ·
-multi-tenant SaaS · Kamal · VPS · Hotwire · Stimulus · OAuth2
+multi-tenant SaaS · Kamal · VPS · Hotwire · Stimulus · OAuth2 · FedCM
+
 AWS, SQS, SNS, RDS, OpenSearch/ElasticSearch
+
 React / TypeScript · Angular · Vue.js
+
 Python / Java, LLM, Codex & Claude Code
 
 **Recent work**
